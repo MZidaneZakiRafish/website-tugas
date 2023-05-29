@@ -1,4 +1,8 @@
 # website-tugas
+
+152021154 Muhammad Zidane Zaki Rafish
+152021142 Bagus Pratam
+
 ketentuan nya ada di dalam folder
 
 ![WhatsApp Image 2023-05-29 at 11 44 59 AM](https://github.com/MZidaneZakiRafish/website-tugas/assets/114885064/e24eb6b8-551e-4191-94cf-636497e93503)
